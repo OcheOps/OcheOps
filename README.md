@@ -1,16 +1,14 @@
 ### Hi there 👋
+- 🔭 I’m currently working on ... making the world a better place one line of code at a time
+- 🌱 I’m currently learning ... C++
+- 👯 I’m looking to collaborate on ... Backend,Devops and blockchain
+- 🤔 I’m looking for help with ... Frontend,mobile devlopment and Machine Learning
+- 💬 Ask me about ... Anything on tech
+- 📫 How to reach me: ... https://twitter.com/Ochecodes
+- 😄 Pronouns: ... he/him
+- ⚡ Fun fact: ... I have a deep sexy voice
 
-<!--
-**ochecodes7/ochecodes7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=ochecodes7&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ochecodes7&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ochecodes7&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
