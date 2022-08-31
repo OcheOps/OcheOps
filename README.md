@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ... making the world a better place one line of code at a time
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... 
 - 👯 I’m looking to collaborate on ... Backend,Devops and blockchain
 - 🤔 I’m looking for help with ... Frontend,mobile devlopment and Machine Learning
 - 💬 Ask me about ... Anything on tech
