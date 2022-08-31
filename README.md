@@ -8,6 +8,7 @@
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I have a deep sexy voice
 
+![](https://komarev.com/ghpvc/?username=ochecodes7)
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ochecodes7&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ochecodes7&theme=radical&hide_border=false)<br/>
