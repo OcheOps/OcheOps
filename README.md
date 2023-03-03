@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Oche</h1>
-<h3 align="center">A passionate Devops and Backend engineer with a handful of cybersec and blockchain exp</h3>
+<h3 align="center">A DevOps and Backend Developer with extensive experience in building and maintaining robust, scalable systems that power mission-critical applications. My expertise includes designing and implementing cloud-based architectures, automating deployment pipelines, and optimizing performance and availability.
+
+I have a passion for building tools and systems that streamline development workflows and enable teams to deliver high-quality software faster. I'm proficient in a range of programming languages, including Python, Java, and Go, and have experience working with a variety of databases, including PostgreSQL, MySQL, and MongoDB.
+
+In addition to my technical skills, I'm a strong communicator and enjoy collaborating with teams to solve complex problems. I'm committed to continuous learning and staying up-to-date with the latest technologies and industry best practices.
+
+Outside of work, I enjoy reading, playing video games, and tinkering with DIY projects. If you're interested in collaborating or just want to say hi, feel free to reach out and connect with me!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ochecodes7&label=Profile%20views&color=0e75b6&style=flat" alt="ochecodes7" /> </p>
 
