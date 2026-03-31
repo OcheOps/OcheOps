@@ -1,36 +1,51 @@
-# 👨🏾‍💻 Oche (OcheOps)
+# 👨🏾‍💻 David Gideon (OcheOps)
 
-**Infrastructure Engineer • Systems Builder**
+**Infrastructure Engineer • Systems Builder • Cloud Architect**
 
-I design and ship production-grade systems across cloud, Kubernetes, and distributed environments.
-
----
-
-## 🚀 What I’ve Built
-
-* Production-ready Kubernetes service (EKS + Terraform + CI/CD + observability)
-* Site-to-site VPN (AWS ↔ Azure, IPsec, hybrid networking)
-* Passy CLI (cross-platform password manager in Go)
-* Spotify → YouTube Music migration engine
+Building production-grade systems across cloud, Kubernetes, and distributed environments.
 
 ---
 
-## ⚙️ Stack
+## 🚀 Selected Work
 
-Cloud: AWS • Azure • GCP 
-Infra: Docker • Kubernetes • Terraform • Ansible
-Code: Go • Python • TypeScript
-Obs: Prometheus • Grafana
+**Production Kubernetes Platform**
+EKS • Terraform • CI/CD • Observability (Prometheus, Grafana, Fluent Bit)
+
+**Hybrid Cloud Networking (AWS ↔ Azure)**
+IPsec VPN • Routing • Secure multi-cloud architecture
+
+**Passy CLI**
+Cross-platform password manager in Go • APT packaging • CI/CD releases
+
+**Playlist Migration Engine**
+Spotify → YouTube Music • High-accuracy matching system
 
 ---
 
-## 🧠 Focus
+## ⚙️ Core Stack
 
-Platform engineering • Distributed systems • Infrastructure design
+Cloud → AWS • Azure • GCP
+Infra → Kubernetes • Docker • Terraform • Ansible
+Code → Go • Python • TypeScript
+Obs → Prometheus • Grafana
+
+---
+
+## 🧠 Current Focus
+
+Platform engineering • Distributed systems • Scalable infrastructure
+
+---
+
+## 📍 Signal
+
+* AWS Solutions Architect (Professional)
+* Azure Architect (AZ-305)
+* Kubernetes & Cloud Native (KCNA)
 
 ---
 
 ## 🌍 Connect
 
-* LinkedIn: https://linkedin.com/in/gideonodavid
-* Twitter: https://twitter.com/ochecodes
+LinkedIn → https://linkedin.com/in/gideonodavid
+Twitter → https://twitter.com/ochecodes
