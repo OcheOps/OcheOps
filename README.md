@@ -1,4 +1,4 @@
-# 👨🏾‍💻 David Gideon (OcheOps)
+# 👨🏾‍💻 Oche (OcheOps)
 
 **Infrastructure Engineer • Systems Builder • Cloud Architect**
 
@@ -36,12 +36,6 @@ Obs → Prometheus • Grafana
 Platform engineering • Distributed systems • Scalable infrastructure
 
 ---
-
-## 📍 Signal
-
-* AWS Solutions Architect (Professional)
-* Azure Architect (AZ-305)
-* Kubernetes & Cloud Native (KCNA)
 
 ---
 
